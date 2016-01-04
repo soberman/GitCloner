@@ -16,9 +16,10 @@ In order to be able to use this script from anywhere you have to copy this scrip
 
 #### Actual usage
 1. Open Terminal app and navigate to the folder, where you want to clone repository to.
-2. Write `clone.sh` and pass argument. Script takes only one argument - url for the git repository to clone. Thus the command is going to look like this.
-
-    $ clone.sh https://github.com/soberman/GreatStuff.git
+2. Write `clone.sh` and pass argument. Script takes only one argument - url for the git repository to clone. Thus the command is going to look like this:  
+``` bash
+$ clone.sh https://github.com/soberman/GreatStuff.git
+```
 
 ## License
 GitCloner is released under the [MIT license](http://opensource.org/licenses/MIT). See LICENSE for details.
